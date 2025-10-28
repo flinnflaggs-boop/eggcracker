@@ -1,5 +1,3 @@
-# eggcracker
-its a website game about cracking an egg and yolk comes out
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -185,3 +183,4 @@ its a website game about cracking an egg and yolk comes out
   </script>
 </body>
 </html>
+
